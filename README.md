@@ -1,6 +1,6 @@
 - 👋 Hi, Iam Mahendra Bhandari
 - I am from Bhutan
-- 👀 I’m interested in coding and playing basketball
+- 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning r programming
 - 💞️ I’m looking to collaborate
 - 📫 can reach me by: mahendrabhandari@gmail.com
